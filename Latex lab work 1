@@ -1,0 +1,68 @@
+\documentclass[]{beamer}
+\usetheme{Madrid}
+\usecolortheme{beaver}
+
+\title{My first PRESENTATION}
+\logo{
+\includegraphics[scale=.1]{THR.jpg}
+}
+\subtitle{On \LaTeX{}}
+\author{Shashi kumar Vemula}
+\institute{RGUKT-B}
+\begin{document}
+\begin{frame}
+    \titlepage
+\end{frame}
+\begin{frame}{OUT LINE of the presentation}
+    \begin{itemize}
+        \item Introduction
+        \item Semester information
+        \item Picture Inserting
+    \end{itemize}
+\end{frame}
+\begin{frame}{INTRODUCTION}
+\hrule[h]
+\begin{block}{Personal Information}
+NAME : V.Shashi kumar\\
+\rule{width=3}
+ID   : B191619\\
+BRANCH: CSE\\
+CLASS: C2\\
+ADDRESS: Shanthinagar,\\
+\hspace{19mm} Sircilla,\\
+\hspace{20mm}Rajanna sircilla,\\
+\hspace{20mm}505301
+\end{block}
+
+
+\end{frame}
+\begin{frame}{SEMESTER INFORMATION}
+\centering
+ \begin{itemize}
+ \centering
+     \item Semester Result
+     
+ \end{itemize}
+
+\begin{tabular}{|K|K|}
+\hline
+     SUBJECT & MARKS  \\
+     \hline
+     English & 95 \\ \hline
+     Mathematics & 98\\ \hline
+    IT  & 99 \\ \hline
+    Physics & 97\\ \hline
+    Chemistry & 92 \\ \hline
+     
+     
+\end{tabular}
+\end{frame}
+\begin{frame}{PICTURE INSERTING}
+\begin{itemize}
+    \item PICTURE 
+\end{itemize}
+\centering
+    \includegraphics[width=80mm,height=60mm]{RGUKT.jpg}
+\end{frame}
+
+\end{document}
