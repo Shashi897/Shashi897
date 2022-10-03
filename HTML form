@@ -1,0 +1,31 @@
+<html>
+<font color=#8403FC>
+<h2 align=center><u>STUDENT RGISTRATION FORM</u></h2>
+</font>
+<form FONTCOLOR=WHITE>
+<table bgcolor=#8403FC cellpadding=7 align=center>
+<tr><td>FIRST NAME </td><td><input type=text>(max 30 characters a-z and A-Z)</td></tr>
+<tr><td>LAST NAME </td><td><input type=text>(max 30 characters a-z and A-Z)</td></tr>
+<tr><td>DATE OF BIRTH </td><td><input type=DATE></td></tr>
+<tr><td>MOBILE NUMBER </td><td><input type=NUMBER></td></tr>
+<tr><td>GENDER </td><td>MALE<input type=RADIO NAME=1>FEMALE<INPUT TYPE=RADIO NAME=1></td></tr>
+<tr><td>ADDRRESS </td><td><TEXTAREA ROWS=4 COLOUMNS=16></TEXTAREA></td></tr>
+<tr><td>HOBBIES </td><td>DRAWING<input type=CHECKBOX>SINGING<input type=CHECKBOX>DANCING<input type=CHECKBOX>SKETCHING<input type=CHECKBOX><BR>OTHERS<input type=CHECKBOX><INPUT TYPE = TEXT></td></tr>
+<TR><TD>QUALIFICATION</TD><TD>
+<TABLE BORDERCOLOR=GREEN BORDER=1 CELLSPACING=0><TR><TD>
+<TABLE >
+<TR><TD>SLNO </TD><TD>EXAMINATION </TD><TD ALIGN=CENTER>BOARD</TD><TD>PERCENTAGE</TD><TD>YEAR OF PASSSING</TD></TR>
+<TR><TD>1. </TD><TD>CLASS X </TD><TD><input type=text></TD><TD><input type=text></TD><TD><input type=text></TD></TR>
+<TR><TD>2. </TD><TD>CLASS XII </TD><TD><input type=text></TD><TD><input type=text></TD><TD><input type=text></TD></TR>
+<TR><TD>3. </TD><TD>GRADUATION </TD><TD><input type=text></TD><TD><input type=text></TD><TD><input type=text></TD></TR>
+<TR><TD>4.</TD><TD>MASTERS </TD><TD><input type=text></TD><TD><input type=text></TD><TD><input type=text></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR>
+<tr><td>COURESES APPLIED FOR </td><td>BCA<input type=RADIO NAM=1>B.COM<INPUT TYPE=RADIO NAM=1>B.SC<INPUT TYPE=RADIO NAM=1>B.A<INPUT TYPE=RADIO NAM=1></td></tr>
+<TR ><TD></TD><TD ALIGN=CENTER><INPUT TYPE=SUBMIT VALUE=SUBMIT ><INPUT TYPE=SUBMIT VALUE=RESET>
+</TD></TR></table>
+	
+</form>
+</html>
