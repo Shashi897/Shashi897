@@ -1,0 +1,116 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[section]{placeins}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+
+
+
+\title{\textbf{Statement of Purpose}}
+\date{}
+
+\begin{document}
+\maketitle
+\section*{\underline{Summary of My M.Tech Project Work:}} 
+\subsection*{Project Title:}
+Assessment on Impacts of Climate Changes due to Fast Urbanization using IoT and Big data Analytics
+\subsection*{Abstract:}
+\hrule[]
+Two of hthe scorching challenges of recent times are Climate Change and Fast Urbanization of the world. Within the last century, Earth’s climate has become ‘hot up’ which is growing exponentially due to increase in the atmospheric greenhouse gases. This is causing a variety of impacts such as inconsistency in weather patterns, increase in severe events, etc. On the other side, the urban areas of the world are rapidly increasing. By 2050, about 70 percentage of the world’s population is expected to live in city areas. It is found that urbanization can play a more notable role in extreme events than that of usual weather. To understand this phenomenon, the data are being collected on a daily/hourly basis using various sensors covering the rural and urbanized areas resulting in the deluge of the data. The data are stored in a cloud for a global utility and to be ensured in its security. We will analyze the data of green house gases, obtained from different areas, and generate results using machine learning algorithms. To improve our understanding of these issues and towards developing bearable solutions require a progress in new technologies, viz. IoT (Internet of Things), Big Data, statistical tools and data mining techniques to protect the biodiversity of natural ecosystems.
+\subsection*{System Design:}
+ \begin{figure}
+ \includegraphics[width=15cm,height=5cm]{photo 1.jpg}
+ \end{figure}
+
+\begin{figure}
+\includegraphics[width=16.5cm,height=25cm]{photo.jpg}
+\end{figure}
+\newpage
+\section{ Why do you want to do PhD/MS / what motivates you for PhD/MS (research)?}
+I am J.Uma Mahesh working as a Assistant Professor in the Dept of C.S.E, Since from the year 2009 to till today. My career goal is to receive a Ph.D from IIT’S/NIT’S, and to excel my professional growth. The main thing which motivated me to do Ph.D is teaching and Learning. I believe that always, a teacher is a continuous Learner. So when teacher is erudite in his area of work. He can guide and motivate the students effectively in teaching and learning activities.
+\section{Specify three research interests from the advertised areas in the order of priority.}
+\begin{enumerate}
+    \item Data Science Algorithms and Applications
+\item Reinforcement Learning
+\item Algorithms and Data Structures
+\end{enumerate}
+\section{Explain what motivates you to do research in these fields.}
+\textbf{1. Data Science Algorithms and Applications: The following skills motivated me to select these fields.}
+\begin{enumerate}
+    \item I have a basic knowledge on Python Programming and R Programming which is suitable for Data Science Algorithms and Applications.
+    \item  I have a basic knowledge of “Data Analytics” also.
+\item Guided projects like
+\end{enumerate}
+\begin{itemize}
+    \item “Data Analytics and Performance of Mobile Apps Using R Language”
+    \item Analysis of J48 Algorithm in Classification-Ebola Virus
+    \item Data Analytics in Abroad and Indian Education System-Using Data Mining Classification Techniques by R Language
+    \item Evaluating the Performance of Tree Based Classifiers Using Zika Virus Dataset
+\end{itemize}
+ \textbf{2. Reinforcement Learning:}
+ \begin{enumerate}
+     \item  I have a basic knowledge on few Machine Learning algorithms.
+     \newline For Example: PCA, Classification Techniques, Regression, Mining Frequent Patterns.
+     \item I want to know more insights of Machine Learning Types and its real time applications
+ \end{enumerate}
+ \textbf{3. Algorithms and Data Structures:}
+ \begin{enumerate}
+     \item I handled most of times “C and Data Structures” Course for my students
+     \item Data Structure plays vital role in any application development.
+     \item I have a basic Knowledge of “Design and Analysis of Algorithms Concepts”.
+   \newline  For Example: Divide and Conquer Approach, Dynamic Programming etc.
+ \end{enumerate}
+ 
+ \subsection*{\textbf{4. Specify a research problem that you would like to attempt (if any).}} \newline
+ I would like to continue the work on “Climate Changes and its Environmental Impacts Due to Fast Urbanization”
+ \newline
+ \newline
+ \underline{The objective of this project is to develop the android app which is used to:} \newline
+1. Determine the various effects on climate due to urbanization\newline
+2. Analyze climate changes due to green house gases of different areas by keeping sensors in the urbanized places and rural places
+\newline
+3. Use data analytics to draft the climatic conditions with the help of machine learning algorithms
+\newline
+4. Compare the results of urban and rural areas to know which area is polluted more due to urbanization
+\newline
+5. Suggest prevention strategies (if any) for those areas
+\newline 6. Identify the environmental changes with respect to human ,plants growth, animals and etc
+
+\subsection*{\textbf{5. Provide your achievements/awards/publications (if any).}}
+\subsubsection*{1. as a Resource Person:}
+\begin{enumerate}
+\item Delivered a Talk as a Resource Person on the Topic:”Data Analytics Using R programming” to Vikas Institute of Engineering and Technology, Kakinada.
+\item Delivered a Talk as a Resource Person on the Topic:”Dimensionality Reduction Technique-PCA” to Geethanjali College of Engineering and Technology, Hyderaba
+\item Acted as a Session organizer: for the Sessions on “Man Machine Interaction and Spoken Dialogue Systems” in the International Conference on Smart Technologies in Computing, Electrical and Electronics held at Reva University,Karnataka,India.
+\item Acted as Mentor for 36 hour Hackathon program held at Sphoorthy Engineering College, Hyderabad.
+\end{enumerate}
+\subsubsection*{2. Projects Applied:}
+\begin{enumerate}
+    \item  Applied for STTP(Through DST) - Two-Week STTP on Sensor Networks and Internet of Robotic Things IoRT
+    \item Applied for RPS (AICTE): Climate Change and its Environmental Impacts Due to F \begin{figure}
+ \end{figure}ast Urbanization
+    
+\end{enumerate}
+\subsubsection*{3. Patents Published:}
+\begin{enumerate}
+    \item  Continuous flow vermi-reactor for fast track urban solid waste treatment
+\item Intelligent fish stock prediction using image processing, machine learning and deep learning
+\end{enumerate}
+ \subsubsection*{4. Awards:}
+ \begin{enumerate}
+     \item I got Qualified for Award of 'National Fellowship for Scheduled Caste Students (NFSC)'
+\item I got qualified in UGC-NET
+ \end{enumerate}
+\subsubsection*{5. Research Publications:}
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=15cm,height=8cm]{photo 2.jpg}
+   
+\end{figure}
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=15cm,height=8cm]{photo 4.jpg}
+   
+\end{figure}
+
+\end{document}
